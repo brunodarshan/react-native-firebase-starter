@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "263597053855",
+    "firebase_url": "https://assessoria-saude-e-superacao.firebaseio.com",
+    "project_id": "assessoria-saude-e-superacao",
+    "storage_bucket": "assessoria-saude-e-superacao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263597053855:android:1fb67c9fd921d9f4",
+        "android_client_info": {
+          "package_name": "com.saudeesuperacao.adminassessoria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263597053855-29vrck3256v31rrdi18r81fe8ms1laj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZLDCaz4LPcEBkwURW8zsro28U9sN2fwY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

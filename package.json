@@ -1,5 +1,5 @@
 {
-  "name": "RNFirebaseStarter",
+  "name": "AdminAssessoria",
   "version": "5.1.0",
   "private": true,
   "devDependencies": {
@@ -22,8 +22,12 @@
     "preset": "react-native"
   },
   "dependencies": {
+    "moment": "^2.23.0",
     "react": "16.5.0",
     "react-native": "0.57.1",
-    "react-native-firebase": "^5.1.1"
+    "react-native-action-button": "^2.8.5",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-firebase": "^5.1.1",
+    "react-native-vector-icons": "^6.1.0"
   }
 }
